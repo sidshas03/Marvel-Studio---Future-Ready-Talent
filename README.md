@@ -6,4 +6,4 @@
 
   Deployment can be viewed here : 
 
-  For deploying a static webapp using Azure Static web app service we have to make a resource group in my case it was "MerchStore" and connect to github account in order to access repositories. Azure creates a github actions .yaml file in ".github/Workflows/ " which automatically detects a new commit and run a github actions workflow and the changes reflects on the actual website.
+  For deploying a static webapp using Azure Static web app service we have to make a resource group in my case it was "Marvel Studio" and connect to github account in order to access repositories. Azure creates a github actions .yaml file in ".github/Workflows/ " which automatically detects a new commit and run a github actions workflow and the changes reflects on the actual website.
